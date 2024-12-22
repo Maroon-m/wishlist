@@ -22,7 +22,7 @@
       </li>
     <li>
   <a href="https://www.wildberries.ru/catalog/294222881/detail.aspx?targetUrl=MS&size=448458726">вариант 3</a>
-      </li>
+      </li> </ul>
 
 <li>Ну и рукавички меховые тоже лайк</li> </ul>
 
