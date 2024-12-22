@@ -14,13 +14,17 @@
 <li>Дубайский шоколад (ну реально хочу попробовать хаха) или шоколадка со вкусом игристого</li>
 
 <li>Шапку прикольную (референсы для примера)
+  <ul><li>
 <a href="https://www.wildberries.ru/catalog/197274419/detail.aspx?targetUrl=MS&size=319922812">вариант 1</a>
+    </li>
+    <li>
   <a href="https://www.wildberries.ru/catalog/258160510/detail.aspx?targetUrl=SI&size=401760350">вариант 2</a>
+      </li>
+    <li>
   <a href="https://www.wildberries.ru/catalog/294222881/detail.aspx?targetUrl=MS&size=448458726">вариант 3</a>
+      </li>
 </li>
 
 <li>Ну и рукавички меховые тоже лайк</li>
-
-<li></li>
 
 <a href=""></a>
